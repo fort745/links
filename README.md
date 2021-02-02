@@ -21,6 +21,6 @@ https://github.com/Gli51/tuna-can [In Development]
 
 Godot and GDScript  
 Collaborative personal project created using open-source game development engine Godot. TunaCan is the perfect all-in-one Android app for string players.
-key features include tuner, pitch generator, metronome, and recording capabilities. The clean, functional UI helps users make the most out of their practice time.  
+Key features include tuner, pitch generator, metronome, and recording capabilities. The clean, functional UI helps users make the most out of their practice time.  
 Development - Iris Li  
 Design and Development - Grace Li
